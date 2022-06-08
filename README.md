@@ -1,6 +1,6 @@
 # FinTribe
 ---
-The Metaverse platform for NFT auction that applies ArtTech.
+The Metaverse platform for NFT auction that applies ArtTech.    
 FinTribe는 아트테크를 적용한 NFT경매 메타버스 플랫폼이다. 기존 플랫폼에서 발견한 가격 부담, 불안정성, 높은 진입 장벽 등의 문제를 해결한 새로운 플랫폼을 개발하는 것을 목표로 하였다.
 
 ### 주요 기능
